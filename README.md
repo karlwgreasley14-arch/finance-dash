@@ -10,3 +10,6 @@ Update 5: added modal window
 # finance-dash
 Developed in 2025.
 Update 9: integrated api
+# finance-dash
+Developed in 2025.
+Update 13: form validation logic
