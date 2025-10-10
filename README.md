@@ -15,3 +15,5 @@ Developed in 2025.
 Update 13: form validation logic
 
 > Update: maintenance: optimized asset loading (2025-09-28)
+
+> Update: updated readme for better documentation (2025-10-10)
